@@ -2,9 +2,11 @@
 int main()
 {
 	int f,c;
-	printf("»ªÊÏÎÂ¶È:");
+	printf("Â»ÂªÃŠÃÃÃ‚Â¶Ãˆ:");
 	scanf("%d",&f);
 	c=5.0/9*(f-32);
-	printf("ÉãÊÏÎÂ¶È:%d",c);
+	printf("Ã‰Ã£ÃŠÃÃÃ‚Â¶Ãˆ:%d",c);
+	
+	
 	return 0;
 }
